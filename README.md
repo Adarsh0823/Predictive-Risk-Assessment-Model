@@ -47,3 +47,21 @@ This project develops a machine learning model to predict healthcare members at 
    ```bash
    git clone https://github.com/yourusername/Predictive-Risk-Assessment-Model.git
    cd Predictive-Risk-Assessment-Model
+
+## Instal Dependencies
+2. pip install -r requirements.txt
+
+## Usage
+Train the Model: Run train_model.py to train and save the logistic regression model.
+Make Predictions: Use predict_risk.py to predict hospitalization risk for new members.
+
+## Results
+Accuracy: 85%
+ROC-AUC: 0.91
+Enabled proactive care planning for high-risk members.
+
+## Future Enhancements
+Incorporate advanced models like XGBoost or Random Forest.
+Add real-time prediction capability via APIs.
+Expand dataset to include more health metrics.
+
