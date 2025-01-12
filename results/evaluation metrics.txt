@@ -1,0 +1,7 @@
+Model Evaluation Metrics:
+
+Accuracy: 0.85
+Precision: 0.82
+Recall: 0.88
+F1 Score: 0.85
+ROC-AUC: 0.91
